@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there ✌🦆
 
-<!--
-**lolive23/lolive23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional ágil desde 2016, especializado em gestão de capacidade, liderança de equipes e produtividade
 
-Here are some ideas to get you started:
+Comprometido com a inclusão e diversidade, busco ser um líder colaborativo e motivador, valorizando o trabalho em equipe e a comunicação clara. Constantemente buscando aprendizado e crescimento profissional através de treinamentos e eventos relevantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência em Gestão de Projetos ( Ágil / Tradicional)
+
+Experiente como Scrum Master/Gerente de Projeto/Product Owner em projetos de adquirencia, jornada do usuário (gestão hospitalar) e inteligência artificial.
+
+## Skills 👨‍💻
+
+Habilidades incluem transformação digital, UX/design thinking, Power BI, processamento de dados, JIRA, Azure Devops, Agile Coach, programação extrema XP, BPM e OKR.
+
+## Projects 🧱
+
+
+## Curriculum 📄
+
+
+## Social Media ☎️
+To get in touch with me, stay on my social media
+
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{lolive23}/count.svg)
